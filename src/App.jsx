@@ -1,5 +1,7 @@
+import { AnimesList } from "./features/animes/AnimesList";
+
 function App() {
-  return <p>hello</p>;
+  return <AnimesList />;
 }
 
 export default App;
